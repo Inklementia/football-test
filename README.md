@@ -1,4 +1,4 @@
-# FootballTest
+# Football Test
 Practice task: Create a simple 3D Footbal
 
 - [x] Aim and apply focrce on ball with the help of drawn trajectory
